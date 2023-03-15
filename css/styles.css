@@ -5,13 +5,14 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Lato;
+	font-family: 'Lato', sans-serif;
 	background-color: #efefe8;
 }
 
 /* Changing the background colour for the header */
 
 header {
+	font-family: Ambroise;
 	background-color: #000060;
 }
 
