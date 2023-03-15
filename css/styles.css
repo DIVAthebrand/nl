@@ -27,7 +27,7 @@ header {
 footer a:hover {
 	opacity: .5;
 }
-footer a:disabled{
+footer{
 	color: #05395a
 }
 
