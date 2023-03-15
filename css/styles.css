@@ -16,13 +16,12 @@ header {
 	color: #efefe8;
 	background-color: #efefe8;
 }
-.navbar-nav{
-	color: #efefe8
-}
+
 /* Changing the background color for the navigation bar */
 
 .nav-link {
-	color: #05395a;
+	color: #efefe8;
+	background-color: #05395a;
 }
 
 /* Effect on social media buttons */
