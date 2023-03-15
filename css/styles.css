@@ -19,16 +19,16 @@ header {
 
 /* Changing the background color for the navigation bar */
 
-
+.nav-link {
+	color: #efefe8;
+	background-color: #05395a;
+}
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
-	background-color: #05395a
 }
-
-
 
 /* Corporate navbar */
 
