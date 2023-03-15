@@ -31,6 +31,10 @@ footer a:hover {
 	background-color: #05395a
 }
 
+.bg-body {
+    background-color: #05395a!important;
+}
+
 /* Corporate navbar */
 
 #navbar-corporate a.active {
