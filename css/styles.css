@@ -27,8 +27,8 @@ header {
 footer a:hover {
 	opacity: .5;
 }
-footer{ 
-	background-color: #05395a
+footer .m2{ 
+	color: #05395a
 }
 
 /* Corporate navbar */
