@@ -34,6 +34,10 @@ footer a:hover {
 	opacity: .5;
 }
 
+.bg-body {
+    background-color: rgba(4, 57, 90, 1)!important;
+}
+
 /* Corporate navbar */
 
 #navbar-corporate a.active {
