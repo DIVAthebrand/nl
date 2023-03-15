@@ -19,11 +19,10 @@ header {
 .navbar-nav{
 	color: #efefe8
 }
-
 /* Changing the background color for the navigation bar */
 
-.navbar {
-	background-color: #05395a;
+.nav-link {
+	color: #05395a;
 }
 
 /* Effect on social media buttons */
