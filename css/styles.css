@@ -27,7 +27,7 @@ header {
 footer a:hover {
 	opacity: .5;
 }
-footer .m-2{ 
+footer .list-unstyled{ 
 	color: #05395a
 }
 
