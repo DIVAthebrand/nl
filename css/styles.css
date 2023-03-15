@@ -4,9 +4,16 @@
 
 /* Changing the main font and background colour */
 
+
 body {
 	font-family: 'Lato', sans-serif;
 	background-color: #efefe8;
+}
+p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 80px;
+  margin-left: 80px;
 }
 
 /* Changing the background colour for the header */
