@@ -13,11 +13,8 @@ body {
 
 header {
 	font-family: 'Playfair Display', serif;
+	color: #efefe8;
 	background-color: #efefe8;
-}
-
-header nav{
-	color: #efefe8
 }
 
 /* Changing the background color for the navigation bar */
