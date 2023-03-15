@@ -28,8 +28,7 @@ footer a:hover {
 	opacity: .5;
 }
 
-footer .list-unstyled a[href*="facebook"] svg,
-footer .list-unstyled a[href*="instagram"] svg {
+.footer a {
   color: #05395a;
 }
 
