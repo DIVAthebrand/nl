@@ -9,7 +9,9 @@ body {
 	font-family: 'Lato', sans-serif;
 	background-color: #efefe8;
 }
+
 p {
+	font-size: 20px;
   margin-top: 80px;
   margin-bottom: 80px;
   margin-right: 160px;
@@ -22,6 +24,7 @@ header {
 	font-family: 'Playfair Display', serif;
 	color: #efefe8;
 	background-color: #05395A;
+	font-size: 100px;
 }
 
 /* Changing the background color for the navigation bar */
