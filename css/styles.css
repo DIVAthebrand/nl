@@ -10,10 +10,10 @@ body {
 	background-color: #efefe8;
 }
 p {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-right: 80px;
-  margin-left: 80px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 160px;
+  margin-left: 160px;
 }
 
 /* Changing the background colour for the header */
