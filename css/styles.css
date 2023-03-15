@@ -12,14 +12,14 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	font-family: Ambroise;
-	background-color: #000060;
+	font-family: 'Playfair Display', serif;
+	background-color: #efefe8;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #eeb6d4;
+	background-color: #05395a;
 }
 
 /* Effect on social media buttons */
@@ -31,6 +31,6 @@ footer a:hover {
 /* Corporate navbar */
 
 #navbar-corporate a.active {
-	color: #800000;
+	color: #05395a;
 	font-weight: bold;
 }
