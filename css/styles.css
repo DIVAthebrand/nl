@@ -25,11 +25,10 @@ header {
 /* Effect on social media buttons */
 
 footer a:hover {
-	opacity: .5;
+	color: #05395a;
 }
-
-.footer a {
-  color: #05395a;
+footer a{
+	color: #FFFFFF
 }
 
 /* Corporate navbar */
