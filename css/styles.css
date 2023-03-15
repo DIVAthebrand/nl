@@ -17,7 +17,10 @@ p {
   margin-bottom: 80px;
   margin-right: 100px;
   margin-left: 100px;
-	padding: 80px;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 40px;
+	padding-top: 40px;
 }
 
 
