@@ -43,6 +43,12 @@ h1, .h1 {
 	font-weight: 700
 }
 
+.button {
+background-color: #eeb6d4;
+color: #efefe8;
+	
+}
+
 /* Changing the background color for the navigation bar */
 
 .navbar {
