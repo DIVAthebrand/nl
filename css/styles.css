@@ -77,3 +77,12 @@ footer a:hover {
 	font-weight: bold;
 }
 
+.img-fluid {
+	border-top-left-radius: 0.375rem;
+	border-top-right-radius: 0.375rem;
+}
+
+.btn-primary {
+	background-color: #05395a;
+}
+
