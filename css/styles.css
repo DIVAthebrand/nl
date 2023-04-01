@@ -86,3 +86,18 @@ footer a:hover {
 	background-color: #05395a;
 }
 
+.text {
+	 padding-top: 30px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+	align-items: center;
+}
+
+.title {
+	 padding-top: 80px;
+  padding-right: 80px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+	align-items: center;
+}
