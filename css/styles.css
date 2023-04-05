@@ -82,6 +82,10 @@ footer a:hover {
 	border-top-right-radius: 0.375rem;
 }
 
+.container {
+	padding-top: 60px;
+}
+
 .btn-primary {
 	background-color: #05395a;
 }
