@@ -82,6 +82,14 @@ footer a:hover {
 	border-top-right-radius: 0.375rem;
 }
 
+.nav-link:hover {
+	color: #eeb6d4;
+}
+
+.nav-link:active {
+	color: #eeb6d4;
+}
+
 .container {
 	padding-top: 60px;
 }
