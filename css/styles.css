@@ -40,7 +40,9 @@ header {
 
 h1, .h1 {
     font-size: 55px;
-	font-weight: 700
+	font-weight: 700;
+	color: #05395A;
+	
 }
 
 .button {
@@ -88,6 +90,10 @@ footer a:hover {
 
 .nav-link:active {
 	color: #eeb6d4;
+}
+
+.bg {
+	background-color: #2929E9;
 }
 
 .container {
