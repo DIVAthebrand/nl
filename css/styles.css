@@ -33,7 +33,7 @@ header {
 	color: #efefe8;
 	background-color: #05395A;
 	margin-top: 80px;
-  margin-bottom: 80px;
+    margin-bottom: 80px;
 }
 
 h1, .h1 {
@@ -60,6 +60,15 @@ color: #efefe8;
 	color: #efefe8
 }
 
+.nav-link:hover {
+	color: #eeb6d4;
+}
+
+.nav-link:active {
+	color: #eeb6d4;
+}
+
+
 /* Effect on social media buttons */
 
 footer a:hover {
@@ -77,14 +86,6 @@ footer a:hover {
 	font-weight: bold;
 }
 
-
-.nav-link:hover {
-	color: #eeb6d4;
-}
-
-.nav-link:active {
-	color: #eeb6d4;
-}
 
 .bg {
 	background-color: #2929E9;
@@ -308,5 +309,9 @@ p {
 		padding-top: 60px;
 		align-content: center;
 		padding-right: 0px;
+	}
+	
+	.active {
+		color: #eeb6d4;
 	}
 }
