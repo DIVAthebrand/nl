@@ -144,7 +144,7 @@ footer a:hover {
 body,
 h2,
 p {
-  margin: 0;
+  margin: 10;
 }
 
 /* GLOBAL STYLES */
@@ -187,7 +187,6 @@ p {
   overflow: hidden;
   border-radius: 0.625rem;
   box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
-  margin: 1em;
 }
 
 .card2 {
@@ -200,7 +199,6 @@ p {
   border-radius: 0.625rem;
 background-color: #05395a;
   box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
-  margin: 1em;
 }
 
 .card > * {
@@ -232,6 +230,8 @@ background-color: #05395a;
 
 .card__content--container {
   -flow-space: 1.25rem;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .card__title {
@@ -251,7 +251,9 @@ background-color: #05395a;
 }
 
 .card__button {
-  padding: 0.5em 0.5em;
+  padding: 0.5em 1.5em;
+margin-left: 10px;
+	margin-right: 10px;
   font-weight: bold;
   border-radius: 0.45em;
   border: none;
