@@ -198,7 +198,7 @@ margin-left: 40px;
   place-items: center;
   width: 80vw;
   max-width: 15rem;
-  height: 25rem;
+  height: 28rem;
   overflow: hidden;
   border-radius: 0.625rem;
 background-color: #05395a;
@@ -363,7 +363,7 @@ margin-left: 10px;
 	.team {
 		width: 100%;
 		border-radius: .5em;
-		margin-top: -2rem;
+		margin-top: -4rem;
 		margin-bottom: 1rem;
 	}	
 	
