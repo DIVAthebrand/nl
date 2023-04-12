@@ -50,6 +50,14 @@ h2, .h2 {
 	font-family: 'Lato', sans-serif;
 }
 
+h3, .h3 {
+    font-size: 18px;
+	font-weight: 400;
+	color: #05395A;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
 .button {
   padding: 0.5em 1.5em;
   width: 12em;
