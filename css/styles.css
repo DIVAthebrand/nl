@@ -59,6 +59,13 @@ h3, .h3 {
 	text-align: center;
 }
 
+heading, .heading {
+    font-size: 24px;
+	font-weight: 400;
+	color: #05395A;
+	font-family: 'Playfair Display', serif;
+}
+
 .button {
   padding: 0.5em 1.5em;
   width: 12em;
@@ -104,6 +111,14 @@ h3, .h3 {
 }
 
 .nav-link:hover {
+	color: #eeb6d4;
+}
+
+.nav-link2 {
+	color: #000000
+}
+
+.nav-link2:hover {
 	color: #eeb6d4;
 }
 
@@ -193,7 +208,6 @@ p {
 body {
   display: grid;
   align-content: center;
-  height: 100vh;
 }
 
 h2 {
@@ -211,7 +225,7 @@ p {
   font-family: var(--font-text);
   font-size: 1rem;
   line-height: 1.5;
-  color: var(--white);
+  color: var(--black);
 }
 
 .flow > * + * {
