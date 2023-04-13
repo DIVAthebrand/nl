@@ -72,14 +72,14 @@ h3, .h3 {
 }
 
 .bigbutton {
-  padding: 0.5em 1.5em;
+  padding: 0.5em 0.5em;
   width: 12em;
   font-weight: bold;
   border-radius: 0.45em;
   border: none;
   background-color: #05395A;
   font-family: "Lato", sans-serif;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   color: #efefe8;
   margin: 1em;
 }
@@ -409,10 +409,5 @@ margin-left: 10px;
 		margin-bottom: 1rem;
 	}	
 	
-	@media only screen and (max-width:640px) {
-  .sqs-block-html {
-    margin: 10px;
-  }
-}
 	
 }
