@@ -267,7 +267,7 @@ background-color: #05395a;
   border-radius: 0.625rem;
 background-color: #05395a;
   box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
-	margin: 20px;
+	margin: 40px;
 
 }
 
@@ -436,6 +436,7 @@ margin-left: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
+		padding: 40px;
 }
 
 	.value{
