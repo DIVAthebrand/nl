@@ -256,6 +256,21 @@ background-color: #05395a;
 
 }
 
+
+.card3 {
+  display: grid;
+  place-items: center;
+  width: 80vw;
+  max-width: 35rem;
+  height: 25rem;
+  overflow: hidden;
+  border-radius: 0.625rem;
+background-color: #05395a;
+  box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+	margin: 20px;
+
+}
+
 .card > * {
   grid-column: 1 / 2;
   grid-row: 1 / 2;
@@ -415,6 +430,16 @@ margin-left: 10px;
 		margin-top: -4rem;
 		margin-bottom: 1rem;
 	}	
-	
+
+
+	.containerx {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+	.value{
+		padding: 40px;
+	}
 	
 }
