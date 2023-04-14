@@ -59,6 +59,13 @@ h3, .h3 {
 	text-align: center;
 }
 
+h5, .h5 {
+    font-size: 20px;
+	color: #05395A;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
 heading, .heading {
     font-size: 24px;
 	font-weight: 400;
